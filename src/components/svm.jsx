@@ -134,7 +134,7 @@ This tutorial will explain:
       </section>
 
       <footer className="text-center mt-5 py-4 bg-light">
-        <p>&copy; 2025 <strong>Shubham Mane</strong></p>
+        <p>&copy; 2026 <strong>Onkar Marathe</strong></p>
         <p>
           View the complete code and tutorial on my <a href="https://github.com/shubhammane7777/Deep-Dive-into-Support-Vector-Machines-SVM-Kernel-Trick/tree/main" target="_blank" rel="noopener noreferrer">GitHub repository</a>
         </p>
